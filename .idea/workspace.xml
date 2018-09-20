@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aedef2fd-fe81-4bc6-a600-cadf4572143a" name="Default" comment="" />
+    <list default="true" id="aedef2fd-fe81-4bc6-a600-cadf4572143a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="spark.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -75,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadCSV.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReadCSV.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/egangotri/dataFrame/ReadCSV.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -83,6 +87,18 @@
               <folding>
                 <element signature="e#32#74#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -141,13 +157,16 @@
     <findStrings>
       <find>winutils</find>
       <find>: String</find>
-      <find>auctionDF</find>
       <find>***</find>
+      <find>auctionDF</find>
     </findStrings>
     <replaceStrings>
       <replace>String</replace>
       <replace>auction</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -179,6 +198,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/egangotri/utils/Util.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/egangotri/utils/Auction.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/egangotri/dataFrame/ReadCSV.scala" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -196,6 +216,7 @@
     <option name="width" value="1370" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -836,15 +857,16 @@
       <workItem from="1504379998263" duration="7583000" />
       <workItem from="1536579526742" duration="13481000" />
       <workItem from="1537090947634" duration="539000" />
-      <workItem from="1537282650315" duration="59127000" />
+      <workItem from="1537282650315" duration="59480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147447000" />
+    <option name="totallyTimeSpent" value="147800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="6" />
       <window_info anchor="right" id="sbt" order="7" weight="0.24198474" />
@@ -855,7 +877,7 @@
       <window_info anchor="right" id="Designer" order="3" />
       <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info id="Structure" order="6" sideWeight="0.19710144" side_tool="true" visible="true" weight="0.23282443" />
+      <window_info id="Structure" order="6" sideWeight="0.3148148" side_tool="true" visible="true" weight="0.23282443" />
       <window_info anchor="right" id="Ant Build" order="11" weight="0.25" />
       <window_info id="UI Designer" order="1" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4392361" />
@@ -866,10 +888,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Run" order="4" sideWeight="0.67175573" weight="0.25172412" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" weight="0.39858907" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.39858907" />
       <window_info anchor="right" id="Graph Database" order="13" visible="true" weight="0.101526715" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.5412214" visible="true" weight="0.4051724" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.8028985" visible="true" weight="0.23282443" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.5412214" visible="true" weight="0.6275862" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.6851852" visible="true" weight="0.23282443" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="12" />
       <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info anchor="bottom" id="Graph Database Console" order="12" />
@@ -954,13 +976,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/output-2/part-00000">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7395">
-          <caret line="435" column="25" selection-start-line="435" selection-start-column="25" selection-end-line="435" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/output-2/part-00001">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1360">
@@ -1251,6 +1266,16 @@
           <folding>
             <element signature="e#32#74#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
