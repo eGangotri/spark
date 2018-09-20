@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.orc:orc-mapreduce:1.4.4:nohive:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.apache.orc/orc-mapreduce/orc-mapreduce-1.4.4-nohive.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

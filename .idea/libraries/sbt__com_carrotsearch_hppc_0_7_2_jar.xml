@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.carrotsearch:hppc:0.7.2:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/bundles/com.carrotsearch/hppc/hppc-0.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.carrotsearch/hppc/hppc-0.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

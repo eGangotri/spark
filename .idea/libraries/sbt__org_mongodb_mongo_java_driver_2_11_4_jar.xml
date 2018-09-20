@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.mongodb:mongo-java-driver:2.11.4:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.mongodb/mongo-java-driver/mongo-java-driver-2.11.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.mongodb/mongo-java-driver/mongo-java-driver-2.11.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
