@@ -42,6 +42,8 @@ object ReadCSV extends App{
   results2.show()
   println(" results2.show()***")
 
+
+
   /* println(auction.first())
    println(auction.collect().foreach(println))*/
   Thread.sleep(100000)

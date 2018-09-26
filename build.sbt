@@ -12,6 +12,9 @@ mainClass in Compile := Some("com.egangotri.WordCount")
 libraryDependencies += "org.apache.spark" %% "spark-core" % "2.3.1"
 libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.3.1"
 
+// https://mvnrepository.com/artifact/com.typesafe.akka/akka-actor
+libraryDependencies += "com.typesafe.akka" %% "akka-actor" % "2.5.16"
+
 // additional libraries
 libraryDependencies ++= Seq(
   "org.scala-lang" % "scala-library" % "2.11.7",

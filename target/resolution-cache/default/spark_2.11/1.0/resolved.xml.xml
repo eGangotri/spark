@@ -4,7 +4,7 @@
 		module="spark_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20180919114632"
+		publication="20180924160240"
 	>
 		<description>
 		spark
@@ -36,6 +36,7 @@
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.7" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-core_2.11" rev="2.3.1" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-sql_2.11" rev="2.3.1" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-actor_2.11" rev="2.5.16" conf="compile->default(compile)"/>
 		<dependency org="org.scala-lang" name="scala-reflect" rev="2.11.7" conf="compile->default(compile)"/>
 		<dependency org="jline" name="jline" rev="2.12.1" conf="compile->default(compile)"/>
 		<dependency org="org.scala-lang.modules" name="scala-parser-combinators_2.11" rev="1.0.4" conf="compile->default(compile)"/>
